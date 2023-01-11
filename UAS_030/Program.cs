@@ -182,7 +182,6 @@ namespace UAS_030
     }
 }
 
-
 /*
  
  2. Algoritma yang digunakan pada program di atas adalah single linked list. 
